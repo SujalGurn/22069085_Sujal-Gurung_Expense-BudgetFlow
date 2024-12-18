@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Expense&BudgetFlow\\Expense&BudgetFlow\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\Expense&BudgetFlow.styles.css",
+      "PackagePath": "staticwebassets\\Expense&BudgetFlow.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Expense&BudgetFlow\\Expense&BudgetFlow\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Expense&BudgetFlow\\Expense&BudgetFlow\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Expense&BudgetFlow\\Expense&BudgetFlow\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Expense&BudgetFlow\\Expense&BudgetFlow\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Expense&BudgetFlow\\Expense&BudgetFlow\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.Expense&BudgetFlow.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.build.Expense&BudgetFlow.props",
+      "PackagePath": "build\\Expense&BudgetFlow.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildMultiTargeting.Expense&BudgetFlow.props",
+      "PackagePath": "buildMultiTargeting\\Expense&BudgetFlow.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildTransitive.Expense&BudgetFlow.props",
+      "PackagePath": "buildTransitive\\Expense&BudgetFlow.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
